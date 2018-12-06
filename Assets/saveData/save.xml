@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<SavaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DmxCOM>COM4</DmxCOM>
+  <showTitle />
+  <isLoop>false</isLoop>
+  <second>0</second>
+  <lights />
+  <pauseTime />
+</SavaData>
